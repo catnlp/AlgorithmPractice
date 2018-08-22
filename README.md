@@ -10,8 +10,8 @@ Java: 1.8
 
     |- AlgorithmPractice
         |-- src.catnlp
+            |--- string
             |--- probability
-                |---- README.md
             |--- bigdata
-                |---- README.md
+        |-- README.md
             
