@@ -11,6 +11,7 @@ Java: 1.8
     |- AlgorithmPractice
         |-- src.catnlp
             |--- string
+            |--- array
             |--- probability
             |--- bigdata
         |-- README.md
