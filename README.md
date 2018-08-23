@@ -12,6 +12,7 @@ Java: 1.8
         |-- src.catnlp
             |--- string
             |--- array
+            |--- stackqueue
             |--- probability
             |--- bigdata
         |-- README.md
